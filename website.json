@@ -1,0 +1,9 @@
+{ "ips": [
+  { "ip": "google.com", 
+   "port": 443
+  },
+  {"ip": "microsoft.com",
+   "port": 443
+  }
+  ]
+}
